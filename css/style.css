@@ -18,6 +18,7 @@ body {
     width: 500px;
     background-color: #fff;
     border-radius: 5px;
+    margin-top: 5px;
 }
 
 #description-content {
@@ -51,6 +52,10 @@ button:hover {
 #characters-card {
     display: flex;
     border-bottom: 2px solid black;
+}
+
+#characters-card-content {
+    margin-left: 3px;
 }
 
 #card-image {
